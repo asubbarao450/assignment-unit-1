@@ -10,6 +10,10 @@ main{
 background-color: #d64161;
 
 }
+
+body{
+    background-color:blueviolet;
+}
 /* Align the h1 containing your name in the center of the header*/
 header{
     text-align: center;
